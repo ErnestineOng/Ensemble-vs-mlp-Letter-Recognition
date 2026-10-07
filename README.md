@@ -1,6 +1,6 @@
-# Letter Recognition: Ensemble Learning vs Deep Learning
+# Letter Recognition: Ensemble Learning vs Neural Network (MLP)
 
-This project compares the performance and consistency of **Classical Machine Learning, Ensemble Learning, and Deep Learning (MLP)** models for multi-class letter recognition. The experiments use two different data representations: **feature-based data** from UCI and **raw pixel-based image data** from Hugging Face.
+This project compares the performance and consistency of **Classical Machine Learning, Ensemble Learning, and Multilayer Perceptron** models for multi-class letter recognition. The experiments use two different data representations: **feature-based data** from UCI and **raw pixel-based image data** from Hugging Face.
 
 The main goal is to evaluate how different models perform when the same classification task is represented using **statistical features versus raw image pixels**.
 
