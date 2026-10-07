@@ -24,7 +24,7 @@ Two versions of the Letter Recognition dataset were used:
 
 ---
 
-## 🔧 Models & Methodology
+## Models & Methodology
 
 The project evaluates several classification algorithms across both data representations:
 
@@ -80,7 +80,7 @@ Overall, the project highlights the importance of considering both **model archi
 
 ---
 
-## Technologies
+## Tools
 
 * Python
 * Scikit-learn
