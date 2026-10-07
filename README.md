@@ -1,4 +1,4 @@
-# 🔤 Letter Recognition: Ensemble Learning vs Deep Learning
+# Letter Recognition: Ensemble Learning vs Deep Learning
 
 This project compares the performance and consistency of **Classical Machine Learning, Ensemble Learning, and Deep Learning (MLP)** models for multi-class letter recognition. The experiments use two different data representations: **feature-based data** from UCI and **raw pixel-based image data** from Hugging Face.
 
@@ -80,7 +80,7 @@ Overall, the project highlights the importance of considering both **model archi
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 * Python
 * Scikit-learn
