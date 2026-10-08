@@ -38,7 +38,6 @@ The project evaluates several classification algorithms across both data represe
 * Pixel flattening and normalization
 * **80:20 stratified train-test split**
 * **5-Fold Stratified Cross-Validation**
-* **GridSearchCV** for hyperparameter tuning
 * Evaluation using **Accuracy, Macro F1-Score, ROC-AUC, and computational performance**
 
 ---
